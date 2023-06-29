@@ -12,12 +12,7 @@ const quizReducer = (state, action) => {
     console.log(state, action);
 
     switch(action.type) {
-        case "CHANGE_STATE":
-            return {
-                ...state,
-                gameStage: STAGES[1]
-            }
-
+        
         case "START_GAME":
             let quizQuestions = null;
 
@@ -30,7 +25,7 @@ const quizReducer = (state, action) => {
             return {
                 ...state,
                 questions: quizQuestions,
-                gameStage: STAGES[2],
+                gameStage: STAGES[1],
             }
 
         case "REORDER_QUESTIONS":
