@@ -6,9 +6,20 @@
     cursor: pointer;
     opacity: 0.8;
     transition: 0.4s;
+    width: 80%;
 }
 
 .option:hover {
     opacity: 1;
     transform: scale(1.1);
+}
+
+.correct {
+    background-color: #0BFC03;
+    font-weight: bold;
+}
+
+.wrong {
+    background-color: rgb(204, 8, 8);
+    opacity: 0.4;
 }
