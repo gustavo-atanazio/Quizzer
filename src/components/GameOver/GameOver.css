@@ -1,0 +1,11 @@
+.game-over {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-over img {
+    width: 60%;
+}
