@@ -1,5 +1,5 @@
 import './Welcome.css';
-import data from '../../data/questions';
+
 import { useContext } from 'react';
 import { QuizContext } from '../../context/quiz';
 
@@ -17,7 +17,7 @@ const Welcome = () => {
             <h2>Bem vindo!</h2>
             <p>Escolha um dos temas abaixo para começar</p>
             <div className="buttons">
-                {data.map(question => (
+                {quizState.questions.map(question => (
                     <button key={question.category} onClick={() => chooseCategoryAndReorderQuestions(question.category)}>
                         {question.category}
                     </button>
