@@ -50,7 +50,7 @@ const data = [
             {
                 question: "Qual é o processo pelo qual ocorre a formação de novas espécies ao longo do tempo?",
                 options: ["Evolução", "Reprodução", "Mutação", "Adaptação"],
-                answer: ""
+                answer: "Evolução"
             },
             {
                 question: "Qual é o nome dado à mudança de estado físico do vapor para líquido?",
