@@ -17,11 +17,7 @@ button {
   font-size: 1.2rem;
   cursor: pointer;
   padding: .8rem 1.5rem;
-  background: linear-gradient(
-    90deg,
-    rgba(132, 53, 222, 1) 0%,
-    rgba(184, 84, 232, 1) 100%
-  );
+  background: linear-gradient(90deg, rgba(4,53,137,1) 23%, rgba(22,10,197,1) 88%);
   border-radius: 3rem;
   border: none;
 }
@@ -29,7 +25,7 @@ button {
 button:hover {
   background: linear-gradient(
     90deg,
-    rgba(184, 84, 232, 1) 0%,
-    rgba(132, 53, 222, 1) 100%
+    rgba(22,10,197,1) 23%,
+    rgba(4,53,137,1) 88%
   );
 }
