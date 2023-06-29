@@ -15,7 +15,7 @@ const Questions = () => {
         <span>Opções</span>
       </div>
 
-      <button>Continuar</button>
+      <button onClick={() => dispatch({type: "CHANGE_QUESTION"})}>Continuar</button>
     </div>
   )
 }
