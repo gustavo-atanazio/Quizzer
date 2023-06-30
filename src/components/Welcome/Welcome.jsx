@@ -8,7 +8,7 @@ const Welcome = () => {
     const [quizState, dispatch] = useContext(QuizContext);
 
     return (
-        <div>
+        <div className="welcome">
             <h2>Bem vindo!</h2>
             <p>Pronto para começar?</p>
             <img src={welcome} alt="Amigos reunidos"/>
