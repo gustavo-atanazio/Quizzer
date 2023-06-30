@@ -13,7 +13,7 @@ const Choose = () => {
     }
 
     return (
-        <div>
+        <div className='choose'>
             <p>Escolha um dos temas abaixo</p>
             <div className="buttons">
                 {quizState.questions.map(question => (
