@@ -21,7 +21,11 @@ button {
   font-size: 1.2rem;
   cursor: pointer;
   padding: .8rem 1.5rem;
-  background: linear-gradient(19deg, #212efd 0%, #9f15de 100%);
+  background: linear-gradient(
+    19deg, 
+    #1420da 0%, 
+    #800dc3 100%
+  );
   border-radius: 3rem;
   border: none;
   transition: 0.4s;
@@ -30,9 +34,9 @@ button {
 button:hover {
   transform: scale(1.1);
   background: linear-gradient(
-    19deg,
-    #215dfd 0%,
-    #5615de 100%
+    19deg, 
+    #1e2ad8 0%, 
+    #5408bf 100%
   );
 }
 
