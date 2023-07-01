@@ -1,6 +1,10 @@
 <h1 align='center'>Quizzer</h1>
 
 <div align='center'>
+  <img src='https://github.com/gustavo-atanazio/Quizzer/assets/124182846/b249ad50-e5b1-4daa-8474-b81abf599a0b' width='700px'/>
+</div>
+
+<div align='center'>
 
 #### Conecte-se comigo! 🤝
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-atanazio)
