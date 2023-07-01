@@ -10,6 +10,18 @@
 O Quizzer é uma aplicação interativa que permite aos usuários testarem seus conhecimentos em diversas áreas. O quiz abrange seis diferentes temas, oferecendo perguntas variadas e desafiadoras em cada um deles. Com uma interface intuitiva e atraente, os participantes podem selecionar uma área de interesse e responder a uma série de perguntas relacionadas ao tema escolhido. O projeto foi desenvolvido utilizando React, uma biblioteca JavaScript popular para criação de interfaces de usuário, proporcionando uma experiência fluida e responsiva. O objetivo principal é proporcionar diversão e aprendizado aos usuários, permitindo que eles ampliem seus conhecimentos em diversas áreas enquanto se divertem com o quiz.
 
 ## 🚀 Testando o projeto
+Você pode testar o projeto diretamente por este [link](https://quizzer-delta.vercel.app/), mas caso queira rodá-lo localmente em sua máquina, siga os passos abaixo:
+
+1. Baixe o arquivo .zip do repositório
+    - Vá no botão com texto "Code", no início do repositório, e selecione "Download ZIP"
+
+2. Extraindo
+    - Após baixar, mova o arquivo para a pasta desejada e faça a extração na mesma
+
+3. Baixando dependências
+    - Abra o editor de código de sua preferência e, no terminal integrado, rode o comando `npm install`. Isso irá realizar a instalação dos pacotes necessários para rodar a aplicação
+
+Nota: Para realizar os passos citados, você precisará baixar o [Node.js](https://nodejs.org/pt-br) e um editor de código.
 
 ## 🔨 Ferramentas usadas
 - React + Vite
