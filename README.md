@@ -1,7 +1,7 @@
 <h1 align='center'>Quizzer</h1>
 
 <div align='center'>
-  <img src='https://github.com/gustavo-atanazio/Quizzer/assets/124182846/1f29d69f-8482-433b-a04b-379f95fb7280' width='700px'/>
+  <img src='https://github.com/gustavo-atanazio/Quizzer/assets/124182846/5ea59b07-b741-4504-9bc6-e5a0a5a97459' width='700px'/>
 </div>
 
 <div align='center'>
